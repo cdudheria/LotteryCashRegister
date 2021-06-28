@@ -1,0 +1,10 @@
+.divDisplay{
+    width: 850px;
+    height: 200px;
+    border: 1px solid;
+    margin-left: 30%;
+    background: azure;
+    border-color: azure;
+    border-radius: 13px;
+    padding: 5px;
+}

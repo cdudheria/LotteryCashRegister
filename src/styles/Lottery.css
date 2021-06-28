@@ -1,0 +1,16 @@
+button{
+    width: 65px;
+    height: 30px;
+    margin: 2px;
+}
+.divbtn{
+    margin: 5px;
+    border: 1px solid;
+    height: 137px;
+    width: 347px;
+    padding: 5px;
+    background: azure;
+    border-color: azure;
+    border-radius: 13px;
+}
+

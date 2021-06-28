@@ -1,0 +1,13 @@
+.divheader{
+    border: 1px solid;
+    width: 99%;
+    height: 140px;
+    margin-bottom: 5px;
+    background: cornsilk;
+    text-align: center;
+    font-size: 100px;
+    border-color: cornsilk;
+    border-radius: 16px;
+    color: coral;
+}
+

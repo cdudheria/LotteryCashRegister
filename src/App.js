@@ -1,7 +1,12 @@
+import React from "react";
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  function handleSubmit(e) {
+    e.preventDefault();
+    alert("hello");
+  }
   return (
     <div className="App">
       <header className="App-header">
@@ -16,10 +21,13 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+          
+        </a>  
+        <a href="#!" onClick={handleSubmit}> vikas </a>
       </header>
     </div>
   );
 }
+
 
 export default App;
